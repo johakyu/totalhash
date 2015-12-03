@@ -2,7 +2,7 @@
 
 '''
 Basic demonstration Python API client for TotalHash
-
+Requires a Totalhash user ID and API key (https://totalhash.cymru.com/contact-us/)
 Takes malware SHA1 on command line prompt and returns results in XML
 '''
 
